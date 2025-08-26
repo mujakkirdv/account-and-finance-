@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # ================= SETTINGS =================
-EXCEL_FILE = "data/accounts.xlsx"
+EXCEL_FILE = "accounts.xlsx"
 
 # ================= LOAD DATA =================
 
@@ -2225,3 +2225,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
